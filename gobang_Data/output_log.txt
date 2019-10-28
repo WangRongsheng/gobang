@@ -1,0 +1,30 @@
+Initialize engine version: 5.3.3p1 (828971bd30e1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Cluster Renderer Log : ARG list
+C:\Users\Userwzz\Desktop\gobang-master\gobang.exe
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Userwzz\Desktop\gobang-master\gobang_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Userwzz\Desktop\gobang-master\gobang_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Userwzz\Desktop\gobang-master\gobang_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Userwzz\Desktop\gobang-master\gobang_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Userwzz\Desktop\gobang-master\gobang_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Userwzz\Desktop\gobang-master\gobang_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Userwzz\Desktop\gobang-master\gobang_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Userwzz\Desktop\gobang-master\gobang_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Userwzz\Desktop\gobang-master\gobang_Data\Managed\Wineforever.String.dll (this message is harmless)
+Loading C:\Users\Userwzz\Desktop\gobang-master\gobang_Data\Managed\Wineforever.String.dll into Unity Child Domain
+- Completed reload, in  0.059 seconds
+Platform assembly: C:\Users\Userwzz\Desktop\gobang-master\gobang_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Userwzz\Desktop\gobang-master\gobang_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.583400 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 560 -> priority: 1 
