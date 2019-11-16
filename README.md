@@ -1,6 +1,7 @@
 # gobang
-
 A game with tf，keras and cuda.
+
+# 简易使用
 
 运行gobang.exe进入游戏。目录下的Config.txt为参数配置文件。玩家可选为Human，MCTS AI 或 DeepMind。
 
